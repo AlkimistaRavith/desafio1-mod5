@@ -1,6 +1,7 @@
 # desafio1-mod5
 Modulo 5 - Desafío 1 - Bases de datos relacionales
 
+REQUERIMIENTOS
 1. Comienza a grabar
 2. Entra al terminal
 3. Ingresa al cliente de postgreSQL desde el terminal
