@@ -25,3 +25,20 @@ puedes inventar.
 resultado devuelva 2 registros.
 (2 Puntos)
 10. Sal de postgreSQL.
+
+# Desafío 2 - Modulo 5
+-CONSIDERACIONES
+● Para este desafío se debe crear una base de datos llamada
+desafio2-tuNombre-tuApellido-3digitos donde los 3 dígitos son escogidos por ti al
+azar.
+● Genera un reporte en un archivo .doc de google o word donde muestres los
+resultados de cada consulta solicitada.
+● Utiliza la consola para crear la tabla e insertar los registros.
+-REQUERIMIENTOS:
+1. ¿Cuántos registros hay?
+2. ¿Cuántos inscritos hay en total?
+3. ¿Cuál o cuáles son los registros de mayor antigüedad?
+4. ¿Cuántos inscritos hay por día? (entendiendo un día como una fecha distinta de
+ahora en adelante)
+5. ¿Qué día se inscribieron la mayor cantidad de personas y cuántas personas se
+inscribieron en ese día?
